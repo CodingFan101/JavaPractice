@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestAverage
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=total1
+comment2.target=int\ CalcAverage(int)
+comment3.params=totalAverage
+comment3.target=char\ determineGrade(int)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=name\ degree
+comment1.target=Professor(java.lang.String,\ java.lang.String)
+comment2.params=choice
+comment2.target=void\ setDegree(java.lang.String)
+comment3.params=nam
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDegree()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

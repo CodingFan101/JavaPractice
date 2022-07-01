@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MPG
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mil\ gal
+comment2.target=double\ calculateMPG(double,\ double)
+comment2.text=\r\n\ \ \ \ \ The\ calculateMPG\ method\ calculates\ the\ amount\ of\ miles-per-gallon.\r\n\ \ \ \ \ @param\ mil\ The\ number\ of\ miles\ driven.\r\n\ \ \ \ \ @param\ gal\ The\ amount\ of\ gallons\ of\ gas\ that\ were\ used.\r\n\ \ \ \ \ @return\ The\ amount\ of\ miles-per-gallon.\r\n
+numComments=3

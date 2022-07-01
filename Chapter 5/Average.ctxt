@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Average
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tes1\ tes2\ tes3
+comment2.target=double\ calculateAverage(double,\ double,\ double)
+comment2.text=\r\n\ \ \ \ \ The\ calculateAverage\ method\ calculates\ the\ average\ of\ the\ test\ scores.\r\n\ \ \ \ \ @param\ tes1\ First\ test\ score\ to\ be\ added.\r\n\ \ \ \ \ @param\ tes2\ Second\ test\ score\ to\ be\ added.\r\n\ \ \ \ \ @param\ tes3\ Third\ test\ score\ to\ be\ added.\r\n\ \ \ \ \ @return\ The\ average\ of\ the\ test\ scores.\r\n
+numComments=3
