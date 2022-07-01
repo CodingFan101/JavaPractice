@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FirstJavaFXProgram
+comment0.text=\r\n\ This\ class\ creates\ and\ displays\ a\ simple\ GUI\ that\ does\ not\ have\ any\ functionality.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ \ \ \ \ The\ 'start'\ method\ puts\ together\ and\ displays\ a\ GUI\ containing\ a\ Button\ control,\r\n\ \ \ \ \ Label\ controls,\ as\ well\ as\ TextField\ controls,\ all\ of\ which\ have\ positions\r\n\ \ \ \ \ that\ are\ determined\ with\ the\ help\ of\ a\ GridPane\ layout\ container.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ primaryStage\ The\ Stage\ object\ that\ was\ created\ when\r\n\ \ \ \ \ the\ application\ launched.\r\n
+numComments=3

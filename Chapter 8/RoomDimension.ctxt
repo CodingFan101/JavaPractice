@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RoomDimension
+comment0.text=\r\n\ \ \ \ \ This\ class\ stores\ data\ concerning\ the\ length\ and\ width\ of\ the\ room.\r\n
+comment1.params=len\ w
+comment1.target=RoomDimension(double,\ double)
+comment1.text=\r\n\ \ \ \ \ Constructor\r\n\ \ \ \ \ @param\ len\ The\ length\ of\ the\ room.\r\n\ \ \ \ \ @param\ w\ The\ width\ of\ the\ room.\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ \ \ \ \ The\ getArea\ method\ calculates\ the\ area\ of\ the\ room.\r\n\ \ \ \ \ @return\ The\ total\ area\ of\ the\ room.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \ \ \ \ The\ toString\ method\r\n\ \ \ \ \ @return\ A\ string\ containing\ the\ length,\ width,\ and\ area\ of\ the\ room.\r\n
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ProductionWorker
+comment0.text=\r\n\ This\ class\ holds\ data\ regarding\ an\ employee's\ shift\ and\ pay\ rate,\ and\ extends\ the\ Employee\ class.\r\n
+comment1.params=name\ codeNumber\ codeLetter\ date\ shiftNumber\ rate
+comment1.target=ProductionWorker(java.lang.String,\ int,\ char,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ \ \ \ \ Constructor\r\n\ \ \ \ \ @param\ name\ The\ employee's\ name\r\n\ \ \ \ \ @param\ codeNumber\ The\ part\ of\ the\ employee\ number\ with\ digits\r\n\ \ \ \ \ @param\ codeLetter\ The\ part\ of\ the\ employee\ number\ with\ a\ letter\r\n\ \ \ \ \ @param\ date\ The\ day\ that\ the\ employee\ was\ hired\r\n\ \ \ \ \ @param\ shiftNumber\ The\ number\ representing\ which\ shift\ the\ employee\ works\r\n\ \ \ \ \ @param\ rate\ The\ employee's\ pay\ rate\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ \ \ \ \ The\ toString\ method\ returns\ a\ String\ containing\ the\ data\ linked\ to\ the\ superclass\ and\ the\ data\ stored\r\n\ \ \ \ \ in\ the\ shift\ and\ payRate\ fields.\r\n\ \ \ \ \ @return\ A\ String\ containing\ the\ data\ related\ to\ the\ superclass\ (Employee)\ and\r\n\ \ \ \ \ the\ data\ stored\ in\ the\ shift\ and\ payRate\ fields.\r\n
+comment3.params=number
+comment3.target=void\ setShift(int)
+comment3.text=\r\n\ \ \ \ \ The\ setShift\ method\ stores\ an\ integer\ in\ the\ shift\ field.\r\n\ \ \ \ \ @param\ number\ The\ number\ to\ be\ stored\ in\ the\ shift\ field.\r\n
+comment4.params=
+comment4.target=int\ getShift()
+comment4.text=\r\n\ \ \ \ \ The\ getShift\ method\ returns\ the\ value\ stored\ in\ the\ shift\ field.\r\n\ \ \ \ \ @return\ The\ integer\ in\ the\ shift\ field.\r\n
+comment5.params=shiftCode
+comment5.target=java.lang.String\ ShiftType(int)
+comment5.text=\r\n\ \ \ \ \ The\ ShiftType\ method\ determines\ whether\ the\ employee\ works\ at\ night\ or\r\n\ \ \ \ \ during\ the\ day.\r\n\ \ \ \ \ @param\ shiftCode\ The\ number\ representing\ which\ shift\ the\ employee\ works.\r\n\ \ \ \ \ @return\ A\ String\ stating\ the\ shift\ that\ the\ employee\ works.\r\n
+comment6.params=rate
+comment6.target=void\ setRate(double)
+comment6.text=\r\n\ \ \ \ \ The\ setRate\ method\ stores\ a\ value\ in\ the\ payRate\ field.\r\n\ \ \ \ \ @param\ rate\ The\ number\ to\ be\ stored\ in\ the\ payRate\ field.\r\n
+comment7.params=
+comment7.target=double\ getRate()
+comment7.text=\r\n\ \ \ \ \ The\ getRate\ method\ returns\ the\ value\ stored\ in\ the\ payRate\ field.\r\n\ \ \ \ \ @return\ The\ number\ in\ the\ payRate\ field.\r\n
+numComments=8

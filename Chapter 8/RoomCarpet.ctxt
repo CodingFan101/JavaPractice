@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RoomCarpet
+comment0.text=\r\n\ \ \ \ This\ class\ works\ with\ the\ room's\ size\ and\ the\ cost\ of\ carpet\ per\ square\ foot.\r\n
+comment1.params=dim\ cost
+comment1.target=RoomCarpet(RoomDimension,\ double)
+comment1.text=\r\n\ \ \ \ \ Constructor\r\n\ \ \ \ \ @param\ dim\ A\ RoomDimension\ object.\r\n\ \ \ \ \ @param\ cost\ The\ cost\ of\ carpet\ per\ square\ foot.\r\n
+comment2.params=
+comment2.target=double\ getTotalCost()
+comment2.text=\r\n\ \ \ \ \ The\ getTotalCost\ method\ calculates\ the\ total\ carpeting\ cost.\r\n\ \ \ \ \ @return\ The\ total\ cost\ of\ carpeting.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \ \ \ \ toString\ method\r\n\ \ \ \ \ @return\ A\ string\ containing\ the\ dimensions\ of\ the\ room\ stored\ in\ the\ RoomDimension\ "size"\ object\ and\ the\ cost\ of\ carpet\ per\ square\ foot.\r\n
+numComments=4

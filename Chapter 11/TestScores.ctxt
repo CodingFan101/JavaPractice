@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestScores
+comment0.text=\r\n\ This\ class\ works\ with\ an\ array\ of\ test\ scores\ and\ analyzes\ the\ values\ of\ each\ score.\r\n
+comment1.params=numbers
+comment1.target=TestScores(int[])
+comment1.text=\r\n\ \ \ \ \ Constructor\r\n\ \ \ \ \ @param\ numbers\ The\ array\ to\ be\ linked\ with\ the\ "scores"\ array\r\n
+comment2.params=
+comment2.target=double\ getAverage()
+comment2.text=\r\n\ \ \ \ \ The\ getAverage\ method\ calculates\ the\ average\ of\ all\ the\ test\ scores\ entered.\r\n\ \ \ \ \ @exception\ IllegalArgumentException\ Thrown\ when\ a\ test\ score\ is\ less\ than\ 0\r\n\ \ \ \ \ or\ greater\ than\ 100.\r\n\ \ \ \ \ @return\ The\ average\ of\ the\ test\ scores.\r\n
+numComments=3

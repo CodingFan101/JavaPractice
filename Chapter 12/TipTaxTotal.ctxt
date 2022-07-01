@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TipTaxTotal
+comment0.text=\r\n\ This\ class\ asks\ the\ user\ to\ type\ in\ the\ amount\ of\ a\ bill\ for\ their\ meal.\r\n\ \r\n\ When\ a\ button\ is\ pressed,\ the\ tip,\ tax,\ and\ total\ are\ all\ calculated\ based\ on\ what\ number\ the\ user\ entered.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ \ \ \ \ The\ 'start'\ method\ puts\ together\ and\ displays\ a\ GUI\ that\ shows\ the\r\n\ \ \ \ \ tip,\ tax,\ and\ total\ amounts\ based\ on\ what\ number\ the\ user\ types\ in\r\n\ \ \ \ \ and\ submits.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ primaryStage\ The\ Stage\ object\ that\ was\ created\ when\r\n\ \ \ \ \ the\ application\ launched.\r\n
+numComments=3

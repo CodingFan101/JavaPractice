@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DormMealPlan
+comment0.text=\r\n\ This\ class\ asks\ the\ user\ to\ select\ a\ dorm\ and\ meal\ plan\ of\ their\ choice,\r\n\ and\ then\ displays\ the\ costs\ of\ the\ dorm\ and\ meal\ plan\ that\ they\ chose,\r\n\ along\ with\ the\ total\ cost\ overall.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ \ \ \ \ The\ 'start'\ method\ puts\ together\ and\ displays\ a\ GUI\ that\ shows\ the\r\n\ \ \ \ \ total\ amounts\ of\ money\ for\ the\ chosen\ dorm\ and\ meal\ plan,\ as\ well\ as\r\n\ \ \ \ \ the\ overall\ cost,\ based\ on\ what\ the\ user\ selects.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ primaryStage\ The\ Stage\ object\ that\ was\ created\ when\r\n\ \ \ \ \ the\ application\ launched.\r\n
+numComments=3

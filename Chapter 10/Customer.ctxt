@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ This\ class\ holds\ data\ regarding\ a\ person's\ customer\ number\ and\ whether\ they\ wish\ to\ be\ on\ a\ mailing\ list,\ and\ also\r\n\ extends\ the\ Person\ class.\r\n
+comment1.params=name\ address\ number\ customerID\ condition
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ \ \ \ \ Constructor\r\n\ \ \ \ \ @param\ name\ The\ customer's\ name\r\n\ \ \ \ \ @param\ address\ The\ customer's\ address\r\n\ \ \ \ \ @param\ number\ The\ customer's\ phone\ number\r\n\ \ \ \ \ @param\ customerID\ The\ customer's\ ID\ number\r\n\ \ \ \ \ @param\ condition\ To\ determine\ whether\ the\ customer\ wants\ to\ be\ on\ a\ mailing\ list\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ \ \ \ \ The\ toString\ method\ returns\ a\ String\ containing\ the\ data\ associated\ with\ the\ superclass,\ and\ the\ data\ \r\n\ \ \ \ \ stored\ in\ the\ fields\ of\ the\ Customer\ class.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @return\ A\ String\ displaying\ the\ data\ found\ in\ the\ fields\ of\ the\ superclass\ and\ the\ Customer\ class\r\n
+comment3.params=position
+comment3.target=java.lang.String\ MailingList(boolean)
+comment3.text=\r\n\ \ \ \ \ The\ MailingList\ method\ determines\ if\ the\ customer\ wants\ to\ be\ on\ a\ mailing\ list\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ position\ The\ boolean\ value\ relating\ to\ the\ customer\r\n\ \ \ \ \ @return\ A\ String\ stating\ whether\ or\ not\ the\ customer\ wants\ to\ be\ on\ a\ mailing\ list\r\n
+comment4.params=number
+comment4.target=void\ setID(int)
+comment4.text=\r\n\ \ \ \ \ The\ setID\ method\ stores\ an\ integer\ in\ the\ identity\ field.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ number\ The\ value\ to\ be\ stored\ in\ the\ identity\ field.\r\n
+comment5.params=bool
+comment5.target=void\ setStatus(boolean)
+comment5.text=\r\n\ \ \ \ \ The\ setStatus\ method\ stores\ a\ boolean\ value\ in\ the\ status\ field.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ bool\ The\ boolean\ value\ to\ be\ stored\ in\ the\ status\ field.\r\n
+comment6.params=
+comment6.target=int\ getID()
+comment6.text=\r\n\ \ \ \ \ The\ getID\ method\ returns\ the\ integer\ stored\ in\ the\ identity\ field.\r\n\ \ \ \ \r\n\ \ \ \ \ @return\ The\ value\ in\ the\ identity\ field.\r\n
+comment7.params=
+comment7.target=boolean\ getStatus()
+comment7.text=\r\n\ \ \ \ \ The\ getStatus\ method\ returns\ the\ boolean\ value\ stored\ in\ the\ status\ field.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @return\ The\ value\ in\ the\ status\ field.\r\n
+numComments=8
