@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RecursivePower
+comment0.text=\r\n\ This\ class\ contains\ a\ method\ which\ uses\ recursion\ to\ raise\ a\ number\ to\ a\ power,\ with\ the\ help\ of\r\n\ user\ input.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number\ exponent
+comment2.target=int\ PowerCalculator(int,\ int)
+comment2.text=\r\n\ \ \ \ \ The\ PowerCalculator\ method\ raises\ a\ number\ to\ a\ power,\ based\ on\r\n\ \ \ \ \ what\ is\ passed\ into\ the\ parameter\ variables.\r\n\ \ \ \ \ @param\ number\ The\ base\ number\r\n\ \ \ \ \ @param\ exponent\ The\ power\ that\ the\ base\ number\ will\ be\ raised\ to\r\n\ \ \ \ \ @return\ The\ final\ result\ of\ the\ calculations\r\n
+numComments=3

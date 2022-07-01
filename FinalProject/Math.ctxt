@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Math
+comment0.text=\r\n\ This\ class\ lets\ the\ user\ solve\ an\ addition\ problem\ \r\n\ involving\ two\ randomly\ generated\ numbers.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ \ \ \ \ The\ 'start'\ method\ puts\ together\ and\ displays\ a\ GUI\ that\ showcases\r\n\ \ \ \ \ an\ addition\ problem\ involving\ two\ random\ numbers\ for\ the\ user\ to\r\n\ \ \ \ \ solve\ with\ the\ help\ of\ a\ TextField\ control\r\n\ \ \ \ \ and\ a\ Button\ control.\r\n\ \ \ \ \ \r\n\ \ \ \ \ @param\ primaryStage\ The\ Stage\ object\ that\ was\ created\ \r\n\ \ \ \ \ when\ the\ application\ launched.\r\n
+numComments=3
